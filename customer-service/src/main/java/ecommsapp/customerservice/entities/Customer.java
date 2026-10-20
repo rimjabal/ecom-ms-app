@@ -1,4 +1,4 @@
-package ecommsapp.customerservice;
+package ecommsapp.customerservice.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
